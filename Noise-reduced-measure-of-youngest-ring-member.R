@@ -2,6 +2,8 @@
 # NOTE: Must first install data.table package if not already installed.
 # Un-comment this line if data.table is not yet installed:
 # install.packages("data.table")
+# Also need the zoo package:
+# install.packages("zoo")
 
 library(data.table)
 
